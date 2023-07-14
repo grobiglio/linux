@@ -1,0 +1,1 @@
+# Resumen de los principales comandos de Linux
