@@ -1,7 +1,26 @@
-# Notas tomadas del curso Certificación LPI Linux Essentials: Temario oficial completo
+# Notas y prácticas de Linux (LPI Essentials)
 
-En este repositorio dejo algunas notas del curso de Antonio Sánchez Corbalán, [Certificación LPI Linux Essentials: Temario oficial completo
-](https://www.udemy.com/course/certificacion-lpi-linux-essentials-temario-oficial-examen/).
+Este repo es mi bitácora de estudio en Linux. Está organizado para **aprender haciendo**.
+
+## Estructura
+- `docs/` — Apuntes teóricos en Markdown
+- `labs/` — Ejercicios prácticos paso a paso
+- `scripts/` — Utilidades y automatizaciones (Bash)
+
+## Índice rápido
+- **CLI básica:** `docs/comandos_basicos.md`
+- **Lab:** `labs/01-cli.md`
+
+## Cómo ejecutar scripts
+```bash
+chmod +x scripts/hola.sh
+./scripts/hola.sh
+```
+
+## Referencia
+
+Curso de Antonio Sánchez Corbalán, [Certificación LPI Linux Essentials: Temario oficial completo
+](https://www.udemy.com/course/certificacion-lpi-linux-essentials-temario-oficial-examen/)
 
 ## Mis apuntes
 
