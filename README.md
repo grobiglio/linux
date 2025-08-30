@@ -10,6 +10,6 @@ Los apuntes del curso en pdf se encuentran en esta carpeta :point_right: [apunte
 
 ## Links de interés
 
-[Página web de Gnome](https://www.gnome.org/)
-[Página web de KDE](https://kde.org/es/)
-[Apuntes de Linux](https://apuntes.de/linux-certificacion-lpi/#gsc.tab=0)
+- [Página web de Gnome](https://www.gnome.org/)
+- [Página web de KDE](https://kde.org/es/)
+- [Apuntes de Linux](https://apuntes.de/linux-certificacion-lpi/#gsc.tab=0)
